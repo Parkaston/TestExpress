@@ -17,7 +17,7 @@ El objetivo principal fue aplicar diferentes tipos de pruebas (unitarias, integr
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/TuUsuario/TuRepositorio.git
+git clone (https://github.com/Parkaston/TestExpress)
 cd TestExpress
 ```
 2. Instalar dependencias:
